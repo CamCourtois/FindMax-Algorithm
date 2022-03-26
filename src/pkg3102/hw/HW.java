@@ -17,7 +17,7 @@ public class HW {
     public static void main(String[] args) 
     {
         
-         int array[] = {1,2};
+         int array[] = {1,2,4,6,8,7,5,4,2,1};
          int max = array.length-1;
          int min = 0;
          int result = findMax(array,min,max);
